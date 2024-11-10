@@ -16,7 +16,8 @@ ________________________________________________________________________________
 
 ## Objective
 
-  ###The objective of this project is to assess the strength of a given password by analyzing its complexity, length, and resistance to common weaknesses. This tool provides feedback on improving password security, aiming to educate users on best practices for creating strong, secure passwords.
+  ### The objective of this project is to assess the strength of a given password by analyzing its complexity, length, and resistance to common weaknesses. This tool provides feedback on improving password security, aiming to educate users on best practices for creating strong, secure passwords.
+______________________________________________________________________________________________________________________________________________________  
 
 ## Key Features
 
@@ -39,6 +40,7 @@ ________________________________________________________________________________
   #### Password Strength Scoring: Provides a strength rating (Weak, Moderate, Strong) based on cumulative checks and assigns a score for better user understanding.
   
   #### Detailed Feedback: Offers specific recommendations to improve the password, such as adding different character types or avoiding common patterns.
+________________________________________________________________________________________________________________________________________________________
 
 ## Usage
 
@@ -49,6 +51,7 @@ ________________________________________________________________________________
 ### Step 2: The function evaluates the password based on predefined security checks.
 
 ### Step 3: A strength rating is assigned, and feedback is provided to guide users in enhancing their password.
+___________________________________________________________________________________________________________________________________________________________
 
 ## Example Output
 
